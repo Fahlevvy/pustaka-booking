@@ -15,7 +15,7 @@
 				<h3>Membuat Template Sederhana dengan CodeIgniter</h3>
 			</hgroup>
 			<nav>
-				<ul>
+				<ul> //P3 menambahkan v-about.php, v-footer.php, v-header.php, v-index.php
 					<li><a href="<?php echo base_url() . 'web' ?>">Home</a></li>
 					<li><a href="<?php echo base_url() . 'web/about' ?>">About</a></li>
 				</ul>
