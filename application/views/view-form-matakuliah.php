@@ -3,7 +3,7 @@
 <head>
     <title>Form Input Matakuliah</title>
 </head>
-
+//Pertemuan 2 contoh 5
 <body>
     <center>
         <form action="<?= base_url('matakuliah/cetak'); ?>" method="post">
