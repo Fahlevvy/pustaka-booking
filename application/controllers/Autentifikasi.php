@@ -119,7 +119,7 @@ class Autentifikasi extends CI_Controller
             redirect('autentifikasi');
         }
     }
-
+//update
     public function logout()
     {
         $this->session->unset_userdata('email');
