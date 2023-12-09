@@ -12,7 +12,7 @@ class Testunit extends CI_Controller
     private function division($a,$b){
         return $a/$b;
     }
-
+//update
     public function index()
     {
         echo "using Unit Test";
