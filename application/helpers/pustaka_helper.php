@@ -1,5 +1,5 @@
 <?php
-
+//pertemuan 9
 function cek_login()
 {
     $ci = get_instance();
