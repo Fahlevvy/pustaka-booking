@@ -3,7 +3,7 @@ class Model_coba1 extends CI_Model
 {
     //membuat variable untuk menampung nilai
     public $nilai1, $nilai2, $hasil;
-
+//Pertemuan 2
     //method penjumlahan
     public function jumlah($nil1 = null, $nil2 = null)
     {
