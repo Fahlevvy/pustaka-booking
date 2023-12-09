@@ -1,6 +1,6 @@
 <?php
 defined('BASEPATH') or exit('No direct script access allowed');
-
+//Pertemuan 9
 class Admin extends CI_Controller
 {
     public function __construct()
